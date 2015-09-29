@@ -1,0 +1,41 @@
+MVC Frameworks Homework 3 CS 497/597 - Enterprise Web Development BSU Fall 2015
+
+You are required to choose Option A or Option B for this programming assignment. 
+-> I am choosing option B being a graduate student.
+
+I shall create a simple application using a selected web framework.
+(a) The website must publicly be hosted at my own expense.
+(b) I shall use an open-source framework.
+(c) For full credit, i shall send an email with the option I chose i.e Option B and a link to the
+homepage. My code will reside on github repo.
+
+Link could be : https://Employer.com/home
+
+ Option B: Random Framework, Random App
+(a) Choose from the following list of web development frameworks:
+• Python Flask
+• Python Django
+• PHP Laravel
+• PHP Symfony
+• PHP CodeIgniter
+• ASP.NET MVC
+• Ruby on Rails
+
+-> i am choosing PHP Codeigniter
+
+(b) Choose from the following list of simple website projects with a database backend
+• Twitter clone
+• Generic blog
+• Photo sharing repository
+
+->i am using a generic blog
+
+
+(c) Implement the website in the chosen framework, and host it publicly!
+
+Being a Graduate student , am additionally required to add HTTPS security to my website.
+(a) Redirect If browse to my website using “http” in the address bar, it must
+re-direct to “https” using the web server, like Apache, and a redirect directive.
+(b) Certificates may use either self-signed certificates, or real bought-and-paidfor
+certificates (not recommended because they can be expensive). Certificates
+are required for typical “https” setups to work correctly
