@@ -1,0 +1,15 @@
+I have created a generic blog with 4 pages :
+1. HOME
+2.ABOUT
+3.BLOG
+4.DASHBOARD
+
+Home Page deals with description and news for now and shall add a few more..
+
+About page has some stuff about me - the blog owner 
+
+Blog Page has a set of sample blogs have created with time stamps
+
+Dashboard has a login page for the admin.
+
+Shall implement a little more have https enabled in the next few days
